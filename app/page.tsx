@@ -254,8 +254,8 @@ export default function Home() {
       <ScrollDepth />
       <section className="hero" id="home">
         <img
-          src="/images/allure-hero.gif"
-          alt="Bridal beauty at Allure Beauty & Studio"
+          src="/images/allure-studio-home-banner.gif"
+          alt="Animated Allure Beauty & Studio banner"
           className="hero-video"
           loading="eager"
         />
